@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "HomePractise"
+    }
+  },
+  "defaultProject": "HomePractise",
+  "cli": {
+    "analytics": false
+  }
 }
