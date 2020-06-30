@@ -7,7 +7,7 @@ import { ServersComponent } from './servers/servers.component';
 import { ServerssComponent } from './serverss/serverss.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSliderModule } from '@angular/material/slider';
-import {MatDatepickerModule, MatDatepicker} from '@angular/material/datepicker';
+import { MatDatepickerModule } from '@angular/material/datepicker';
 
 @NgModule({
   declarations: [
